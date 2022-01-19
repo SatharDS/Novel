@@ -7,3 +7,5 @@ The fence was very tough and the hammer was heavy, nevertheless the boy was so f
 Day after day, week after week, the number of nails was gradually decreasing. After some time, the boy started to understand that holding his temper is easier than driving nails into the fence.
 
 One day the boy didn‘t need hammer and nails anymore as he learned to hold his temper perfectly. So he came to his father and told about his achievement. „Now every time, when you hold your temper all day long, pull out one nail“.
+
+This is a new line added to modify this file.
