@@ -1,0 +1,4 @@
+This is the first line of the outline file.
+
+We will be introducing characters in this text doc.
+The characters are Daisy, John & Lucy.
